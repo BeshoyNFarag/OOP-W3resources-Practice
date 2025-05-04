@@ -11,7 +11,7 @@ public class Main {
         Drawable rectangle = new Rectangle();
         Drawable triangle = new Triangle();
         circle.draw();
-        
+
         rectangle.draw();
 
         triangle.draw();
