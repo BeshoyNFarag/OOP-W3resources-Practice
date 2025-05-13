@@ -1,0 +1,14 @@
+/*
+2. Write a Java program to create a class Vehicle with a method called speedUp().
+Create two subclasses Car and Bicycle. Override the speedUp() method in each subclass to
+increase the vehicle's speed differently.
+*/
+
+public class Car extends Vehicle {
+
+    @Override
+    public void speedUp(){
+
+        System.out.println(this.getClass().getName() + " is speeding by " + 50);
+    }
+}
