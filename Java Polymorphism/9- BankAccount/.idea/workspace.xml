@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6aaa4e8-47b5-4583-b080-01966f09b9aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/1- Animal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/src/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/1- Animal/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/2- Vehicle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/src/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehicle/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehivle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/2- Vehivle/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/3- Shape.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Polymorhpism/3- Shape/src/Triangle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2x4lxYzGYQraqKAVdoFuaMkY1Kx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Interface&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6aaa4e8-47b5-4583-b080-01966f09b9aa" name="Changes" comment="" />
+      <created>1747205474823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747205474823</updated>
+      <workItem from="1747205475843" duration="1109000" />
+      <workItem from="1747212798882" duration="9000" />
+      <workItem from="1747328431981" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
